@@ -4,3 +4,5 @@ One of the problems faced concerning Arabic fake news detection is the scarcity 
 # Dataset collection
 
 
+For retrieving, the full object of the tweet consider the following tools Hydrator and twarc .
+
