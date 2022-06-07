@@ -3,6 +3,7 @@ One of the problems faced concerning Arabic fake news detection is the scarcity 
 
 # Dataset collection
 
+Only tweets content news in the Arabic language were collected from October 2020 until June 2021.
 
 For retrieving, the full object of the tweet consider the following tools Hydrator and twarc .
 
