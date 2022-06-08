@@ -5,7 +5,7 @@ One of the problems faced concerning Arabic fake news detection is the scarcity 
 
 - Only tweets content news in the Arabic language were collected from October 2020 until June 2021.
 
-- We present a dataset AFNT: Arabic Fake News Tweets of 5,165 tweets. These tweets were collected directly from Twitter API by using Tweepy API can use our Scrape_Twitter notebook.
+- We present a dataset AFNT: Arabic Fake News Tweets of 5,165 tweets. These tweets were collected directly from Twitter API by using Tweepy API can use our [Scrape_Twitter](https://github.com/SadeemAlharthi/A-New-Benchmark-Dataset-for-Arabic-Fake-News-Detection/blob/main/Scrape_Twitter.ipynb) notebook.
 
 - We used two fact-checking accounts in Twitter to get classify news for real news and fake news were Anti-rumors Authority and Misbar.
 
