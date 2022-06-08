@@ -7,11 +7,11 @@ One of the problems faced concerning Arabic fake news detection is the scarcity 
 
 - We present a dataset AFNT: Arabic Fake News Tweets of 5,165 tweets. These tweets were collected directly from Twitter API by using Tweepy API can use our [Scrape_Twitter](https://github.com/SadeemAlharthi/A-New-Benchmark-Dataset-for-Arabic-Fake-News-Detection/blob/main/Scrape_Twitter.ipynb) notebook.
 
-- We used two fact-checking accounts in Twitter to get classify news for real news and fake news were Anti-rumors Authority and Misbar.
+- We used two fact-checking accounts in Twitter to get classify news for real news and fake news were [Anti-rumors Authority](https://twitter.com/to_rumors?lang=ar) and [Misbar](https://twitter.com/misbarfc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
 
 - We used query texts to be given to the API to limit the stream of tweets got for each real and fake news post.
 
-- The id_tweets.txt file contains a collection of AFNT tweets IDs only, and the id_label_tweets.csv file contains the dataset of already annotated tweets ids.
+- The [id_tweets.txt](https://github.com/SadeemAlharthi/A-New-Benchmark-Dataset-for-Arabic-Fake-News-Detection/blob/main/Dataset) file contains a collection of AFNT tweets IDs only, and the [id_label_tweets.csv](https://github.com/SadeemAlharthi/A-New-Benchmark-Dataset-for-Arabic-Fake-News-Detection/blob/main/Dataset) file contains the dataset of already annotated tweets ids.
  
 - For retrieving, the full object of the tweets consider the following tools [Hydrator](https://github.com/DocNow/hydrator) and [Twarc](https://github.com/DocNow/twarc).
 
@@ -42,7 +42,7 @@ To use Hydrator follow the instructions in the [Hydrator GitHub repository](http
 
 # Licensing
 
-This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).By using this dataset , you agree to the terms of the [LICENSE](https://github.com/SadeemAlharthi/A-New-Benchmark-Dataset-for-Arabic-Fake-News-Detection/blob/main/LICENSE.txt), and to all [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy)
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).By using this dataset, you agree to the terms of the [LICENSE](https://github.com/SadeemAlharthi/A-New-Benchmark-Dataset-for-Arabic-Fake-News-Detection/blob/main/LICENSE.txt), and to all [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy)
 
 # Contact
 
