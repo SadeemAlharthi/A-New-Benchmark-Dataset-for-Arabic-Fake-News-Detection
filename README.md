@@ -27,15 +27,15 @@ The following statistics is from Tweets colected for nine-month between 1 Octobe
 
 # Guideline to Hydrate
 
-## Using TWARC Notebook
+ # Using TWARC Notebook
 
 To hydrate the tweets_ID from our dataset Arabic Fake News Tweets you can use our Hydrate_TweetIDs_Arabic_Fake_News_tweets notebook.
 
-The notebook runs on google collab
-You are required to have a Twitter developer account
-For those who prefer to use a Graphical User Interface (GUI) , We suggest using Hydrator.
+\\The notebook runs on google collab
+\\You are required to have a Twitter developer account
+\\For those who prefer to use a Graphical User Interface (GUI) , We suggest using Hydrator.
 
-## Using Hydrator
+ # Using Hydrator
 
 To use Hydrator follow the instructions in the Hydrator GitHub repository.
 
