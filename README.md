@@ -23,6 +23,7 @@ The following statistics is from Tweets colected for nine-month between 1 Octobe
 - The Number of Fake news: 2,278
 - The Number of Truth news: 2,887
 - The Number of unique words: 90,017
+- The Number of unique users: 3,931
 - The Number of tweets with geolocation:  2,742
 
 # Guideline to Hydrate
